@@ -34,7 +34,7 @@ Tudo isso usando um modelo de **inteligência artificial embarcado no dispositiv
 ```bash
 flutter pub get
 flutter run
-
+```
 
 📄 Licença
 Distribuído sob a licença MIT.
